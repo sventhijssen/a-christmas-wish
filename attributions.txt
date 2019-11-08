@@ -14,3 +14,14 @@ Wood Fence (Low Poly) by VX-Designs
 License: CC Attribution
 Source: https://sketchfab.com/3d-models/wood-fence-low-poly-8adfbcb77b734574ba99fde5bd0df4b9
 
+low poly forest assets by Konstantin_Keller
+License: CC Attribution
+Source: https://sketchfab.com/3d-models/low-poly-forest-assets-edb4369db3434fdeb7e6148ed1e422e5
+
+
+---------
+TUTORIALS
+---------
+Blender Quick Tip: Create Stars Using Nodes by Kenan Proffitt
+Source: https://youtu.be/9vbq6HOgA2w
+
